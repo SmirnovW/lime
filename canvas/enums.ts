@@ -1,0 +1,9 @@
+export enum TYPES {
+	TEXT,
+	RECT,
+	SELECTION,
+	LAYER,
+	LINE,
+	TRIANGLE,
+	IMAGE,
+}

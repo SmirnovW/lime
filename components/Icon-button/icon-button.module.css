@@ -1,0 +1,22 @@
+.button {
+	background: transparent;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+.fill {
+	width: 100%;
+}
+
+.small {
+	padding: 6px;
+}
+
+.medium {
+	padding: 10px;
+}

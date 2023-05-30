@@ -1,0 +1,2 @@
+export const STICKER_DEFAULT_WIDTH = 200;
+export const STICKER_DEFAULT_HEIGHT = 200;
